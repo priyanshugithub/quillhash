@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: "AIzaSyCJpEaSlnSJDKNwq-4UNYsWBeJ_4loHCxM",
     authDomain: "quillhash-5af80.firebaseapp.com",
     databaseURL: "https://quillhash-5af80.firebaseio.com",
     projectId: "quillhash-5af80",
